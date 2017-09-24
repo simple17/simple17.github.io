@@ -16,6 +16,10 @@ footer {
   
 }
 
+section {
+  border-bottom: 1px dashed #ccc;
+}
+
 ul {
   list-style: none;
   margin: 0;
@@ -37,7 +41,7 @@ h1 {
 }
 
 h2 {
-  margin: 0;
+  margin: 10px 0;
   font-size: 1.4em;
 }
 
